@@ -1,0 +1,17 @@
+body, html{
+    
+    background-image: url("../img/bbad.jpg");    
+    background-repeat: no-repeat;
+
+ /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+}
+
+
+.container{
+    padding: 70px;
+}
+
